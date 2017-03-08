@@ -17,7 +17,7 @@
     },
 	"autoload": {
         "paging": [
-            "Pagination.php",
+            "Pagination.php"
         ]
     }
 }
