@@ -1,5 +1,5 @@
 <?php
-namespace App\Helpers;
+namespace Pagination;
 /**
  * class Pagination-create pages
  * return array pages
