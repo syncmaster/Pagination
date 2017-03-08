@@ -1,7 +1,7 @@
 {
     "name": "plamen/pagination",
     "type": "library",
-    "description": "Logging for PHP 5.3",
+    "description": "PAgination for every page you want easy to use and very cool :)",
     "keywords": ["page","pagination"],
     "homepage": "https://github.com/syncmaster/Pagination",
     "license": "MIT",
